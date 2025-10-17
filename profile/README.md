@@ -11,7 +11,7 @@ We create retail and custom typefaces — crafted with care, curiosity, and a be
 
 # 🍄 Selected Projects
 
-🔡 [Kecal](https://github.com/FungiType/Kecal) — Just a basic open source sans serif for everyday
+🔡 [Kecal](https://github.com/FungiType/Kecal) — Just a basic open source sans serif for everyday use
 
 (more coming soon...)
 
