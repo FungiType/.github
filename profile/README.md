@@ -21,4 +21,4 @@ We create retail and custom typefaces — crafted with care, curiosity, and a be
 
 📸 Instagram [@fungitype](https://www.instagram.com/fungitype)
 
-✉️ hi@fungitype.xyz
+✉️ funguy@fungitype.xyz
