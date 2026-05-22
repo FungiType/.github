@@ -1,17 +1,26 @@
-# Fungi Type
+# Fungi Type 🍄
 
-We design typography that works as hard as you do. Founded in Prague by Jiří Krblich, Fungi Type is an independent type foundry focused on crafting expressive, highly functional letterforms.
+Fungi Type is an independent type foundry from Prague, run by designer Jiří Krblich.
 
-# 🍄 Selected Projects
+We make type for playful ideas, serious systems, and projects that need a voice sharper than the default. Our fonts are built for brands, interfaces, editorial design, motion, and the occasional strange brief — with enough character to be remembered and enough discipline to survive real production.
 
-🔡 [Kecal](https://github.com/FungiType/Kecal) — Just a basic open source sans serif for everyday use
+Alongside our growing retail library, we create custom typefaces, logotypes, and typographic systems for studios, agencies, brands, and cultural projects that need letters made specifically for them.
 
-💬 [Mluvka](https://github.com/FungiType/Mluvka) — Contemporary & open source geometric sans
+## 🔡 Selected Projects
 
-# 🌱 Connect
+- [Kecal](https://github.com/FungiType/Kecal) — A basic open source sans serif for everyday use
+- [Mluvka](https://github.com/FungiType/Mluvka) — Contemporary open source geometric sans
 
-🌐 [fungitype.xyz](https://fungitype.xyz)
+## 🛠️ What We Do
 
-📸 Instagram [@fungitype](https://www.instagram.com/fungitype)
+- Retail typefaces with character
+- Custom and corporate typefaces
+- Logotypes
+- Typographic systems
+- Lettering for brands, culture, editorial, motion, and digital products
 
-✉️ funguy@fungitype.xyz
+## 🌱 Connect
+
+🌐 [fungitype.xyz](https://fungitype.xyz)  
+📸 Instagram [@fungitype](https://www.instagram.com/fungitype)  
+✉️ [funguy@fungitype.xyz](mailto:funguy@fungitype.xyz)
